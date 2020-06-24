@@ -1,0 +1,17 @@
+# Book settings
+title: "X-ray imaging: Physics — Instrumentation — Applications"
+author: Jean M Létang
+logo: logo.png
+
+# Information about where the book exists on the web
+repository:
+  url                       : https://github.com/jmletang/x-ray-book  # Online location of your book
+  book_path                 : .  # Optional path to your book, relative to the repository root
+  branch                    : master  # Which branch of the repository should be used when creating links (optional)
+
+launch_buttons:
+  binderhub_url: "https://mybinder.org/v2/gh/jmletang/Xray/master"  # The URL for your BinderHub (e.g., https://mybinder.org)
+
+latex:
+  latex_documents:
+    targetname: book.tex
