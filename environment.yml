@@ -1,4 +1,4 @@
-name: example-environment
+name: x-ray-book
 channels:
   - conda-forge
 dependencies:
