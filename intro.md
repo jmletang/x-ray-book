@@ -1,6 +1,6 @@
 # Introduction
 
-The aim of this book is to learn the basics of x-ray transmission imaging.
+The aim of this book is to learn the basics of x-ray transmission physics and imaging.
 
 Radiological images, historically implemented for control of welds and castings are easily interpretable. The image is all the clearer here that the X-ray beam is attenuated. In imagery by attenuation is the very principle of radiology. We are already perceiving the limits of radiology for thick material which may block full of beam and therefore make it impossible the control.
 ```{figure} ../figures/RX/Contrast/VShapeweldX-rs3.jpg
